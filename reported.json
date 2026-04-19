@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "repo_full_name": "s4nj1th/secr-cli",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-19T16:01:59.913947079Z",
+    "issue_url": "https://github.com/s4nj1th/secr-cli/issues/1"
+  },
+  {
+    "repo_full_name": "Ladorigvava/thekeyssystemstricoreai",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "0d7d1ce9",
+    "first_reported_at": "2026-04-19T16:02:31.092443236Z",
+    "issue_url": "https://github.com/Ladorigvava/thekeyssystemstricoreai/issues/7"
+  },
+  {
+    "repo_full_name": "ArnavBhalla/Forge",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "0833eddb",
+    "first_reported_at": "2026-04-19T16:03:01.568600300Z",
+    "issue_url": "https://github.com/ArnavBhalla/Forge/issues/2"
+  },
+  {
+    "repo_full_name": "UltraVioletHush/testrep",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "19c2c2c1",
+    "first_reported_at": "2026-04-19T16:03:31.985322437Z",
+    "issue_url": "https://github.com/UltraVioletHush/testrep/issues/1"
+  },
+  {
+    "repo_full_name": "PlexPt/chatgpt-java",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "18212b89",
+    "first_reported_at": "2026-04-19T16:04:02.414155194Z",
+    "issue_url": "https://github.com/PlexPt/chatgpt-java/issues/352"
+  }
+]
