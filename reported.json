@@ -33,5 +33,40 @@
     "key_sha256_prefix": "18212b89",
     "first_reported_at": "2026-04-19T16:04:02.414155194Z",
     "issue_url": "https://github.com/PlexPt/chatgpt-java/issues/352"
+  },
+  {
+    "repo_full_name": "anuroopmjay/N8N-FDP-Resources",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "5e32ba38",
+    "first_reported_at": "2026-04-19T19:17:23.367610599Z",
+    "issue_url": "https://github.com/anuroopmjay/N8N-FDP-Resources/issues/1"
+  },
+  {
+    "repo_full_name": "OzCog/mad9ml",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "767d3762",
+    "first_reported_at": "2026-04-19T19:17:53.711122005Z",
+    "issue_url": "https://github.com/OzCog/mad9ml/issues/33"
+  },
+  {
+    "repo_full_name": "OzCog/mad9ml",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "5e8e8512",
+    "first_reported_at": "2026-04-19T19:18:24.039789765Z",
+    "issue_url": "https://github.com/OzCog/mad9ml/issues/34"
+  },
+  {
+    "repo_full_name": "OzCog/mad9ml",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "ea2ba450",
+    "first_reported_at": "2026-04-19T19:18:54.423947829Z",
+    "issue_url": "https://github.com/OzCog/mad9ml/issues/35"
+  },
+  {
+    "repo_full_name": "Preventera/SafetyAgentic",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "81748725",
+    "first_reported_at": "2026-04-19T19:19:24.803119777Z",
+    "issue_url": "https://github.com/Preventera/SafetyAgentic/issues/5"
   }
 ]
