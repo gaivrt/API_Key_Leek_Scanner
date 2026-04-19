@@ -1,0 +1,10 @@
+/target
+/Cargo.lock.bak
+findings*.json
+/disclosure-drafts/
+*.log
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store

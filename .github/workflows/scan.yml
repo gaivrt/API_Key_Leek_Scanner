@@ -1,0 +1,158 @@
+name: scan
+
+on:
+  schedule:
+    # Every 3 hours, offset 17 min to stay out of :00 queue spikes.
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: 'Search pages per rule (GitHub caps at 10 = 1000 items)'
+        required: false
+        default: '2'
+      max_issues:
+        description: 'Max issues to open per run'
+        required: false
+        default: '5'
+      dry_run:
+        description: 'Skip the --confirm flag (no issues opened)'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write   # commit state branch
+  issues: write     # open issues in THIS repo (cross-repo uses LEAK_SCANNER_PAT)
+
+concurrency:
+  group: leak-scanner-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache cargo artifacts
+        uses: Swatinem/rust-cache@v2
+
+      - name: Build release binary
+        run: cargo build --release
+
+      - name: Run self-tests
+        run: cargo test --bin leak-scanner --release
+
+      - name: Checkout state branch (if exists)
+        id: state_checkout
+        uses: actions/checkout@v4
+        with:
+          ref: state
+          path: .state
+        continue-on-error: true
+
+      - name: Initialize state branch (first run only)
+        if: steps.state_checkout.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          rm -rf .state
+          mkdir -p .state
+          cd .state
+          git init -b state
+          git config user.name "leak-scanner-bot"
+          git config user.email "bot@users.noreply.github.com"
+          printf '[]\n' > reported.json
+          git add reported.json
+          git commit -m "chore: initialize state branch"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" state
+
+      - name: Run scan
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEAK_SCANNER_PAT }}
+          RUST_LOG: leak_scanner=info
+        run: |
+          ./target/release/leak-scanner scan \
+            --out findings.json \
+            --max-pages ${{ github.event.inputs.max_pages || '2' }}
+
+      - name: Summarize findings
+        run: |
+          set -euo pipefail
+          count=$(jq 'length' findings.json)
+          echo "## Scan summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "Raw findings: **$count**" >> "$GITHUB_STEP_SUMMARY"
+          jq -r 'group_by(.vendor) | map({vendor: .[0].vendor, n: length}) | .[] | "- \(.vendor): \(.n)"' findings.json \
+            >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Open issues (rate-limited)
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEAK_SCANNER_PAT }}
+          LEAK_SCANNER_STATE_DIR: .state
+          RUST_LOG: leak_scanner=info
+        run: |
+          ./target/release/leak-scanner report \
+            --input findings.json \
+            --max ${{ github.event.inputs.max_issues || '5' }} \
+            --spacing 30 \
+            --confirm
+
+      - name: Dry-run report (no --confirm)
+        if: ${{ github.event.inputs.dry_run == 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEAK_SCANNER_PAT }}
+          LEAK_SCANNER_STATE_DIR: .state
+        run: |
+          ./target/release/leak-scanner report \
+            --input findings.json \
+            --max ${{ github.event.inputs.max_issues || '5' }} \
+            --spacing 30
+
+      - name: Generate disclosure-email drafts
+        run: |
+          ./target/release/leak-scanner draft-email \
+            --input findings.json \
+            --out-dir disclosure-drafts
+
+      - name: Commit state
+        working-directory: .state
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git config user.name "leak-scanner-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no state changes"
+            exit 0
+          fi
+          ts=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          git commit -m "state: $ts"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:state
+
+      - name: Upload disclosure drafts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: disclosure-drafts-${{ github.run_id }}
+          path: disclosure-drafts/
+          if-no-files-found: ignore
+          retention-days: 30
+
+      - name: Upload findings JSON
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: findings-${{ github.run_id }}
+          path: findings.json
+          if-no-files-found: ignore
+          retention-days: 30
