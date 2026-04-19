@@ -68,5 +68,40 @@
     "key_sha256_prefix": "81748725",
     "first_reported_at": "2026-04-19T19:19:24.803119777Z",
     "issue_url": "https://github.com/Preventera/SafetyAgentic/issues/5"
+  },
+  {
+    "repo_full_name": "muradmy00/AI-Image-Generator",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "22f80d75",
+    "first_reported_at": "2026-04-19T21:59:12.928305978Z",
+    "issue_url": "https://github.com/muradmy00/AI-Image-Generator/issues/2"
+  },
+  {
+    "repo_full_name": "MrSanZz/InsomniaGPT-Prompt",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "912de45d",
+    "first_reported_at": "2026-04-19T21:59:43.213092813Z",
+    "issue_url": "https://github.com/MrSanZz/InsomniaGPT-Prompt/issues/10"
+  },
+  {
+    "repo_full_name": "MEHULI102/tds-virtual-ta",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "3c96c028",
+    "first_reported_at": "2026-04-19T22:00:13.748247081Z",
+    "issue_url": "https://github.com/MEHULI102/tds-virtual-ta/issues/1"
+  },
+  {
+    "repo_full_name": "aminsamir45/ai_changelog",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "d33a0de8",
+    "first_reported_at": "2026-04-19T22:00:44.082492983Z",
+    "issue_url": "https://github.com/aminsamir45/ai_changelog/issues/1"
+  },
+  {
+    "repo_full_name": "Realized-Automaton/ABC-DE-FI",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "9c680e56",
+    "first_reported_at": "2026-04-19T22:01:14.442849091Z",
+    "issue_url": "https://github.com/Realized-Automaton/ABC-DE-FI/issues/4"
   }
 ]
