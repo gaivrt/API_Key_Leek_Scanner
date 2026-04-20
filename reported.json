@@ -243,5 +243,40 @@
     "key_sha256_prefix": "a185b436",
     "first_reported_at": "2026-04-20T14:22:03.100029238Z",
     "issue_url": "https://github.com/AdityaJ9801/Threat-classification-using-ESP32Cam/issues/1"
+  },
+  {
+    "repo_full_name": "EmmanuelBalderasB/AI-Museum-Assistant",
+    "rule_id": "groq",
+    "key_sha256_prefix": "6845738d",
+    "first_reported_at": "2026-04-20T16:44:45.230274878Z",
+    "issue_url": "https://github.com/EmmanuelBalderasB/AI-Museum-Assistant/issues/2"
+  },
+  {
+    "repo_full_name": "aiml-team/NDBS-AIML-Sales-Research-Tool",
+    "rule_id": "groq",
+    "key_sha256_prefix": "557f0281",
+    "first_reported_at": "2026-04-20T16:45:15.555761471Z",
+    "issue_url": "https://github.com/aiml-team/NDBS-AIML-Sales-Research-Tool/issues/1"
+  },
+  {
+    "repo_full_name": "coding4vinayak/aw-tools-free",
+    "rule_id": "groq",
+    "key_sha256_prefix": "1a6af153",
+    "first_reported_at": "2026-04-20T16:45:45.868580859Z",
+    "issue_url": "https://github.com/coding4vinayak/aw-tools-free/issues/1"
+  },
+  {
+    "repo_full_name": "v513/mano-dura-de-franco",
+    "rule_id": "groq",
+    "key_sha256_prefix": "e3a9d8e3",
+    "first_reported_at": "2026-04-20T16:46:16.405689100Z",
+    "issue_url": "https://github.com/v513/mano-dura-de-franco/issues/1"
+  },
+  {
+    "repo_full_name": "Dhruvbhujbal/AIO-Chatbot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "7c1eab71",
+    "first_reported_at": "2026-04-20T16:46:46.726096127Z",
+    "issue_url": "https://github.com/Dhruvbhujbal/AIO-Chatbot/issues/1"
   }
 ]
