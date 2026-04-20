@@ -313,5 +313,40 @@
     "key_sha256_prefix": "7e8d1aef",
     "first_reported_at": "2026-04-20T19:42:30.352769212Z",
     "issue_url": "https://github.com/Alex007-Biz/Telegram_bot/issues/1"
+  },
+  {
+    "repo_full_name": "Faildes/CivitAI-ModelFetch-AutoScripterPlanner",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "4aee8154",
+    "first_reported_at": "2026-04-20T22:06:58.535386170Z",
+    "issue_url": "https://github.com/Faildes/CivitAI-ModelFetch-AutoScripterPlanner/issues/1"
+  },
+  {
+    "repo_full_name": "WASasquatch/easydiffusion",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "1e3b789c",
+    "first_reported_at": "2026-04-20T22:07:28.829729171Z",
+    "issue_url": "https://github.com/WASasquatch/easydiffusion/issues/16"
+  },
+  {
+    "repo_full_name": "ZoneCog/shiny-carnival",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "767d3762",
+    "first_reported_at": "2026-04-20T22:07:59.161089278Z",
+    "issue_url": "https://github.com/ZoneCog/shiny-carnival/issues/2"
+  },
+  {
+    "repo_full_name": "ZoneCog/shiny-carnival",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "5e8e8512",
+    "first_reported_at": "2026-04-20T22:08:29.489325334Z",
+    "issue_url": "https://github.com/ZoneCog/shiny-carnival/issues/3"
+  },
+  {
+    "repo_full_name": "ZoneCog/shiny-carnival",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "ea2ba450",
+    "first_reported_at": "2026-04-20T22:08:59.808138797Z",
+    "issue_url": "https://github.com/ZoneCog/shiny-carnival/issues/4"
   }
 ]
