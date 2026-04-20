@@ -278,5 +278,40 @@
     "key_sha256_prefix": "7c1eab71",
     "first_reported_at": "2026-04-20T16:46:46.726096127Z",
     "issue_url": "https://github.com/Dhruvbhujbal/AIO-Chatbot/issues/1"
+  },
+  {
+    "repo_full_name": "teohdg/guardian-angel",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "21f1c93c",
+    "first_reported_at": "2026-04-20T19:40:28.904194163Z",
+    "issue_url": "https://github.com/teohdg/guardian-angel/issues/1"
+  },
+  {
+    "repo_full_name": "slano-ls/SLANOMACS",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "ad948bc7",
+    "first_reported_at": "2026-04-20T19:40:59.257691381Z",
+    "issue_url": "https://github.com/slano-ls/SLANOMACS/issues/1"
+  },
+  {
+    "repo_full_name": "in-vishal-chauhan/AI-ML",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "c32a4af3",
+    "first_reported_at": "2026-04-20T19:41:29.565671682Z",
+    "issue_url": "https://github.com/in-vishal-chauhan/AI-ML/issues/1"
+  },
+  {
+    "repo_full_name": "Franck0alix/Jarvis-0.1",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "1436031e",
+    "first_reported_at": "2026-04-20T19:41:59.897453713Z",
+    "issue_url": "https://github.com/Franck0alix/Jarvis-0.1/issues/1"
+  },
+  {
+    "repo_full_name": "Alex007-Biz/Telegram_bot",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "7e8d1aef",
+    "first_reported_at": "2026-04-20T19:42:30.352769212Z",
+    "issue_url": "https://github.com/Alex007-Biz/Telegram_bot/issues/1"
   }
 ]
