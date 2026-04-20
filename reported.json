@@ -103,5 +103,40 @@
     "key_sha256_prefix": "9c680e56",
     "first_reported_at": "2026-04-19T22:01:14.442849091Z",
     "issue_url": "https://github.com/Realized-Automaton/ABC-DE-FI/issues/4"
+  },
+  {
+    "repo_full_name": "viablesys/library",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-20T04:00:17.652106001Z",
+    "issue_url": "https://github.com/viablesys/library/issues/1"
+  },
+  {
+    "repo_full_name": "viablesys/library",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "edc43928",
+    "first_reported_at": "2026-04-20T04:00:48.109103385Z",
+    "issue_url": "https://github.com/viablesys/library/issues/2"
+  },
+  {
+    "repo_full_name": "Zulu55/restaurants",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "28d85770",
+    "first_reported_at": "2026-04-20T04:01:18.537821566Z",
+    "issue_url": "https://github.com/Zulu55/restaurants/issues/1"
+  },
+  {
+    "repo_full_name": "DemosDevTeam/Shiny-Dashboard",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "df86ec0c",
+    "first_reported_at": "2026-04-20T04:01:49.809219571Z",
+    "issue_url": "https://github.com/DemosDevTeam/Shiny-Dashboard/issues/1"
+  },
+  {
+    "repo_full_name": "joepoptiya/personal-website",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "4192b9e1",
+    "first_reported_at": "2026-04-20T04:02:20.227401505Z",
+    "issue_url": "https://github.com/joepoptiya/personal-website/issues/4"
   }
 ]
