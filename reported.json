@@ -138,5 +138,40 @@
     "key_sha256_prefix": "4192b9e1",
     "first_reported_at": "2026-04-20T04:02:20.227401505Z",
     "issue_url": "https://github.com/joepoptiya/personal-website/issues/4"
+  },
+  {
+    "repo_full_name": "MasumiYano/ChatTune",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "446a0547",
+    "first_reported_at": "2026-04-20T08:35:36.910051076Z",
+    "issue_url": "https://github.com/MasumiYano/ChatTune/issues/1"
+  },
+  {
+    "repo_full_name": "muggle14/qaqc-30",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "1c6d0802",
+    "first_reported_at": "2026-04-20T08:36:07.273028756Z",
+    "issue_url": "https://github.com/muggle14/qaqc-30/issues/1"
+  },
+  {
+    "repo_full_name": "ijassper/streamlit-hello",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "7a52fa93",
+    "first_reported_at": "2026-04-20T08:36:37.604706501Z",
+    "issue_url": "https://github.com/ijassper/streamlit-hello/issues/1"
+  },
+  {
+    "repo_full_name": "itsflow0/itsflow0.github.io",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "5ac54864",
+    "first_reported_at": "2026-04-20T08:37:07.950879025Z",
+    "issue_url": "https://github.com/itsflow0/itsflow0.github.io/issues/1"
+  },
+  {
+    "repo_full_name": "zli12321/TopicModelLLM",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "491b2140",
+    "first_reported_at": "2026-04-20T08:37:38.289080469Z",
+    "issue_url": "https://github.com/zli12321/TopicModelLLM/issues/2"
   }
 ]
