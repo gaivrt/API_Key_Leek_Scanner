@@ -173,5 +173,40 @@
     "key_sha256_prefix": "491b2140",
     "first_reported_at": "2026-04-20T08:37:38.289080469Z",
     "issue_url": "https://github.com/zli12321/TopicModelLLM/issues/2"
+  },
+  {
+    "repo_full_name": "arlyon/keyleash",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "a3da76f0",
+    "first_reported_at": "2026-04-20T11:05:55.024439442Z",
+    "issue_url": "https://github.com/arlyon/keyleash/issues/1"
+  },
+  {
+    "repo_full_name": "amcchord/slideChat",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "44823cd7",
+    "first_reported_at": "2026-04-20T11:06:25.316460815Z",
+    "issue_url": "https://github.com/amcchord/slideChat/issues/1"
+  },
+  {
+    "repo_full_name": "gigitaaa/neonova-ai",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "88104055",
+    "first_reported_at": "2026-04-20T11:06:55.671495506Z",
+    "issue_url": "https://github.com/gigitaaa/neonova-ai/issues/4"
+  },
+  {
+    "repo_full_name": "silverwolf-2077/Migration-Pattern-Analysis-and-GenAI-Enhanced-Dashboard",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "6010dae5",
+    "first_reported_at": "2026-04-20T11:07:26.078343350Z",
+    "issue_url": "https://github.com/silverwolf-2077/Migration-Pattern-Analysis-and-GenAI-Enhanced-Dashboard/issues/1"
+  },
+  {
+    "repo_full_name": "jumphrey77/TradingScripts",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "d899e8a2",
+    "first_reported_at": "2026-04-20T11:07:56.347996918Z",
+    "issue_url": "https://github.com/jumphrey77/TradingScripts/issues/7"
   }
 ]
