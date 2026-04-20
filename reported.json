@@ -208,5 +208,40 @@
     "key_sha256_prefix": "d899e8a2",
     "first_reported_at": "2026-04-20T11:07:56.347996918Z",
     "issue_url": "https://github.com/jumphrey77/TradingScripts/issues/7"
+  },
+  {
+    "repo_full_name": "shelton74358667/schoolbook",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "ecea2393",
+    "first_reported_at": "2026-04-20T14:20:01.085554166Z",
+    "issue_url": "https://github.com/shelton74358667/schoolbook/issues/2"
+  },
+  {
+    "repo_full_name": "shelton74358667/schoolbook",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "6cddc3dd",
+    "first_reported_at": "2026-04-20T14:20:31.574931241Z",
+    "issue_url": "https://github.com/shelton74358667/schoolbook/issues/3"
+  },
+  {
+    "repo_full_name": "joepoptiya/personal-website",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "3ad71e62",
+    "first_reported_at": "2026-04-20T14:21:02.036329760Z",
+    "issue_url": "https://github.com/joepoptiya/personal-website/issues/5"
+  },
+  {
+    "repo_full_name": "MoneyJia/ChatGPT-Api",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "bc4638d5",
+    "first_reported_at": "2026-04-20T14:21:32.473698763Z",
+    "issue_url": "https://github.com/MoneyJia/ChatGPT-Api/issues/2"
+  },
+  {
+    "repo_full_name": "AdityaJ9801/Threat-classification-using-ESP32Cam",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "a185b436",
+    "first_reported_at": "2026-04-20T14:22:03.100029238Z",
+    "issue_url": "https://github.com/AdityaJ9801/Threat-classification-using-ESP32Cam/issues/1"
   }
 ]
