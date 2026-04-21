@@ -523,5 +523,40 @@
     "key_sha256_prefix": "a9235339",
     "first_reported_at": "2026-04-21T16:30:40.364630199Z",
     "issue_url": "https://github.com/thesachinyyadav/AdvancedPython/issues/1"
+  },
+  {
+    "repo_full_name": "DougieMcGuire/DougieMcGuire.github.io",
+    "rule_id": "groq",
+    "key_sha256_prefix": "e8ee5502",
+    "first_reported_at": "2026-04-21T19:45:16.056554823Z",
+    "issue_url": "https://github.com/DougieMcGuire/DougieMcGuire.github.io/issues/1"
+  },
+  {
+    "repo_full_name": "caiotaavares/LLM-WebScrapping",
+    "rule_id": "groq",
+    "key_sha256_prefix": "f716e563",
+    "first_reported_at": "2026-04-21T19:45:46.361974710Z",
+    "issue_url": "https://github.com/caiotaavares/LLM-WebScrapping/issues/1"
+  },
+  {
+    "repo_full_name": "Utkarsh3042/EchoMind",
+    "rule_id": "groq",
+    "key_sha256_prefix": "cbb126ee",
+    "first_reported_at": "2026-04-21T19:46:16.689969233Z",
+    "issue_url": "https://github.com/Utkarsh3042/EchoMind/issues/2"
+  },
+  {
+    "repo_full_name": "himani-mehra/ChatSensei",
+    "rule_id": "groq",
+    "key_sha256_prefix": "7240c27d",
+    "first_reported_at": "2026-04-21T19:46:47.000893614Z",
+    "issue_url": "https://github.com/himani-mehra/ChatSensei/issues/1"
+  },
+  {
+    "repo_full_name": "SANTOSH-TECH7/CodeFixPro",
+    "rule_id": "groq",
+    "key_sha256_prefix": "61d99035",
+    "first_reported_at": "2026-04-21T19:47:17.571756624Z",
+    "issue_url": "https://github.com/SANTOSH-TECH7/CodeFixPro/issues/1"
   }
 ]
