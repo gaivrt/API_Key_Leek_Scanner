@@ -418,5 +418,40 @@
     "key_sha256_prefix": "8ea647fa",
     "first_reported_at": "2026-04-21T08:18:19.126891902Z",
     "issue_url": "https://github.com/aboyejiisaiah-commits/EduQuest/issues/1"
+  },
+  {
+    "repo_full_name": "aryan121111/arbuilding",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "f6ca8aff",
+    "first_reported_at": "2026-04-21T10:51:07.928454448Z",
+    "issue_url": "https://github.com/aryan121111/arbuilding/issues/2"
+  },
+  {
+    "repo_full_name": "anixsam/pothole_pinger",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "9bd3b5d1",
+    "first_reported_at": "2026-04-21T10:51:38.954101275Z",
+    "issue_url": "https://github.com/anixsam/pothole_pinger/issues/1"
+  },
+  {
+    "repo_full_name": "aditya808324/summerproject",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "08d15d96",
+    "first_reported_at": "2026-04-21T10:52:09.423146379Z",
+    "issue_url": "https://github.com/aditya808324/summerproject/issues/2"
+  },
+  {
+    "repo_full_name": "todaygood/Ai01",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "7735fef6",
+    "first_reported_at": "2026-04-21T10:52:39.859719191Z",
+    "issue_url": "https://github.com/todaygood/Ai01/issues/3"
+  },
+  {
+    "repo_full_name": "Salina00/EcoSahayak",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "fe6543b2",
+    "first_reported_at": "2026-04-21T10:53:10.247232720Z",
+    "issue_url": "https://github.com/Salina00/EcoSahayak/issues/6"
   }
 ]
