@@ -453,5 +453,40 @@
     "key_sha256_prefix": "fe6543b2",
     "first_reported_at": "2026-04-21T10:53:10.247232720Z",
     "issue_url": "https://github.com/Salina00/EcoSahayak/issues/6"
+  },
+  {
+    "repo_full_name": "Amangari22/Bot-A-News-Research-Tool-",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "255b7ad6",
+    "first_reported_at": "2026-04-21T14:17:00.349309583Z",
+    "issue_url": "https://github.com/Amangari22/Bot-A-News-Research-Tool-/issues/2"
+  },
+  {
+    "repo_full_name": "Hyderabad2017/team-20",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "92f5d68e",
+    "first_reported_at": "2026-04-21T14:17:30.856546107Z",
+    "issue_url": "https://github.com/Hyderabad2017/team-20/issues/1"
+  },
+  {
+    "repo_full_name": "zamandalee/lm-moral-preferences",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "64f4e7c9",
+    "first_reported_at": "2026-04-21T14:18:01.339864239Z",
+    "issue_url": "https://github.com/zamandalee/lm-moral-preferences/issues/1"
+  },
+  {
+    "repo_full_name": "Kedarcv/live-api-web-console",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "719d42f6",
+    "first_reported_at": "2026-04-21T14:18:31.808766828Z",
+    "issue_url": "https://github.com/Kedarcv/live-api-web-console/issues/2"
+  },
+  {
+    "repo_full_name": "Huzaifaabdulrab/AgenticAi",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "f0a180ac",
+    "first_reported_at": "2026-04-21T14:19:02.419197051Z",
+    "issue_url": "https://github.com/Huzaifaabdulrab/AgenticAi/issues/3"
   }
 ]
