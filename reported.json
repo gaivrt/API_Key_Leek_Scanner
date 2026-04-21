@@ -488,5 +488,40 @@
     "key_sha256_prefix": "f0a180ac",
     "first_reported_at": "2026-04-21T14:19:02.419197051Z",
     "issue_url": "https://github.com/Huzaifaabdulrab/AgenticAi/issues/3"
+  },
+  {
+    "repo_full_name": "gpu314/hackyhelper",
+    "rule_id": "groq",
+    "key_sha256_prefix": "52feb0df",
+    "first_reported_at": "2026-04-21T16:28:38.935629403Z",
+    "issue_url": "https://github.com/gpu314/hackyhelper/issues/22"
+  },
+  {
+    "repo_full_name": "Farook269/Voice_Assistant",
+    "rule_id": "groq",
+    "key_sha256_prefix": "7b5a9f7d",
+    "first_reported_at": "2026-04-21T16:29:09.248662656Z",
+    "issue_url": "https://github.com/Farook269/Voice_Assistant/issues/1"
+  },
+  {
+    "repo_full_name": "piyushg-07/Linkedin-Post-generator",
+    "rule_id": "groq",
+    "key_sha256_prefix": "80a5d668",
+    "first_reported_at": "2026-04-21T16:29:39.595958519Z",
+    "issue_url": "https://github.com/piyushg-07/Linkedin-Post-generator/issues/1"
+  },
+  {
+    "repo_full_name": "RohitKamble171012/Deal-Detector",
+    "rule_id": "groq",
+    "key_sha256_prefix": "b719ce68",
+    "first_reported_at": "2026-04-21T16:30:10.001950785Z",
+    "issue_url": "https://github.com/RohitKamble171012/Deal-Detector/issues/1"
+  },
+  {
+    "repo_full_name": "thesachinyyadav/AdvancedPython",
+    "rule_id": "groq",
+    "key_sha256_prefix": "a9235339",
+    "first_reported_at": "2026-04-21T16:30:40.364630199Z",
+    "issue_url": "https://github.com/thesachinyyadav/AdvancedPython/issues/1"
   }
 ]
