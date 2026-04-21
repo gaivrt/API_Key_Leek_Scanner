@@ -348,5 +348,40 @@
     "key_sha256_prefix": "ea2ba450",
     "first_reported_at": "2026-04-20T22:08:59.808138797Z",
     "issue_url": "https://github.com/ZoneCog/shiny-carnival/issues/4"
+  },
+  {
+    "repo_full_name": "ljurie711/golf-coach",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "1d780fc1",
+    "first_reported_at": "2026-04-21T03:54:00.048093421Z",
+    "issue_url": "https://github.com/ljurie711/golf-coach/issues/1"
+  },
+  {
+    "repo_full_name": "JonaGTHB/nvim",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "319de2ba",
+    "first_reported_at": "2026-04-21T03:54:30.452361614Z",
+    "issue_url": "https://github.com/JonaGTHB/nvim/issues/1"
+  },
+  {
+    "repo_full_name": "ellipsis52/Xero-Partner-2.0-Works-place",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "2ee6be21",
+    "first_reported_at": "2026-04-21T03:55:00.938202226Z",
+    "issue_url": "https://github.com/ellipsis52/Xero-Partner-2.0-Works-place/issues/1"
+  },
+  {
+    "repo_full_name": "ababdalla/DataScience-Learning",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "d24f7c8c",
+    "first_reported_at": "2026-04-21T03:55:31.317209529Z",
+    "issue_url": "https://github.com/ababdalla/DataScience-Learning/issues/1"
+  },
+  {
+    "repo_full_name": "MaksTsymbal/AI_Assistant",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "226cbc28",
+    "first_reported_at": "2026-04-21T03:56:01.736243449Z",
+    "issue_url": "https://github.com/MaksTsymbal/AI_Assistant/issues/1"
   }
 ]
