@@ -383,5 +383,40 @@
     "key_sha256_prefix": "226cbc28",
     "first_reported_at": "2026-04-21T03:56:01.736243449Z",
     "issue_url": "https://github.com/MaksTsymbal/AI_Assistant/issues/1"
+  },
+  {
+    "repo_full_name": "deivissontrabalho-lgtm/Criador",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "2ae86710",
+    "first_reported_at": "2026-04-21T08:16:17.263379700Z",
+    "issue_url": "https://github.com/deivissontrabalho-lgtm/Criador/issues/2"
+  },
+  {
+    "repo_full_name": "VICKY-0017/Email_generator-GenAI-",
+    "rule_id": "groq",
+    "key_sha256_prefix": "b1232dcd",
+    "first_reported_at": "2026-04-21T08:16:47.742480817Z",
+    "issue_url": "https://github.com/VICKY-0017/Email_generator-GenAI-/issues/2"
+  },
+  {
+    "repo_full_name": "rutikshindepatil21/EquityResearchTool",
+    "rule_id": "groq",
+    "key_sha256_prefix": "56ee5679",
+    "first_reported_at": "2026-04-21T08:17:18.194089186Z",
+    "issue_url": "https://github.com/rutikshindepatil21/EquityResearchTool/issues/1"
+  },
+  {
+    "repo_full_name": "SenuraPpathirana/cryptoAgent",
+    "rule_id": "groq",
+    "key_sha256_prefix": "03a49bc2",
+    "first_reported_at": "2026-04-21T08:17:48.665927451Z",
+    "issue_url": "https://github.com/SenuraPpathirana/cryptoAgent/issues/5"
+  },
+  {
+    "repo_full_name": "aboyejiisaiah-commits/EduQuest",
+    "rule_id": "groq",
+    "key_sha256_prefix": "8ea647fa",
+    "first_reported_at": "2026-04-21T08:18:19.126891902Z",
+    "issue_url": "https://github.com/aboyejiisaiah-commits/EduQuest/issues/1"
   }
 ]
