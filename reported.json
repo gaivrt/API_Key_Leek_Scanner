@@ -558,5 +558,40 @@
     "key_sha256_prefix": "61d99035",
     "first_reported_at": "2026-04-21T19:47:17.571756624Z",
     "issue_url": "https://github.com/SANTOSH-TECH7/CodeFixPro/issues/1"
+  },
+  {
+    "repo_full_name": "SarthakML205/ResourceX",
+    "rule_id": "groq",
+    "key_sha256_prefix": "1ea27e63",
+    "first_reported_at": "2026-04-21T22:07:14.396298501Z",
+    "issue_url": "https://github.com/SarthakML205/ResourceX/issues/1"
+  },
+  {
+    "repo_full_name": "Aurum24-dev/Chat-bot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "4db213da",
+    "first_reported_at": "2026-04-21T22:07:44.735038047Z",
+    "issue_url": "https://github.com/Aurum24-dev/Chat-bot/issues/1"
+  },
+  {
+    "repo_full_name": "seokw-Ryan/notebooks",
+    "rule_id": "groq",
+    "key_sha256_prefix": "b0253c85",
+    "first_reported_at": "2026-04-21T22:08:15.096403207Z",
+    "issue_url": "https://github.com/seokw-Ryan/notebooks/issues/1"
+  },
+  {
+    "repo_full_name": "sahar-saidani/Markini",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "98827464",
+    "first_reported_at": "2026-04-21T22:08:45.461890133Z",
+    "issue_url": "https://github.com/sahar-saidani/Markini/issues/1"
+  },
+  {
+    "repo_full_name": "sahar-saidani/Markini",
+    "rule_id": "groq",
+    "key_sha256_prefix": "c8334ad6",
+    "first_reported_at": "2026-04-21T22:09:16.802292378Z",
+    "issue_url": "https://github.com/sahar-saidani/Markini/issues/2"
   }
 ]
