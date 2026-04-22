@@ -698,5 +698,40 @@
     "key_sha256_prefix": "5f3c92f9",
     "first_reported_at": "2026-04-22T10:52:40.898541229Z",
     "issue_url": "https://github.com/godlygodzilla/Turing-Test-ChatGPT_poem_classifier/issues/2"
+  },
+  {
+    "repo_full_name": "ASHKARAN/mccp",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "74355467",
+    "first_reported_at": "2026-04-22T14:17:25.121931217Z",
+    "issue_url": "https://github.com/ASHKARAN/mccp/issues/1"
+  },
+  {
+    "repo_full_name": "Anand21J-V/Clinical-Trial-Semantic-Model-Filter-Query",
+    "rule_id": "groq",
+    "key_sha256_prefix": "47ebd931",
+    "first_reported_at": "2026-04-22T14:17:55.585904434Z",
+    "issue_url": "https://github.com/Anand21J-V/Clinical-Trial-Semantic-Model-Filter-Query/issues/2"
+  },
+  {
+    "repo_full_name": "yagnik1125/subtitle_generator_2511",
+    "rule_id": "groq",
+    "key_sha256_prefix": "99bc0742",
+    "first_reported_at": "2026-04-22T14:18:26.010032171Z",
+    "issue_url": "https://github.com/yagnik1125/subtitle_generator_2511/issues/1"
+  },
+  {
+    "repo_full_name": "Huzaifah-Altaf/manjin-ai-app",
+    "rule_id": "groq",
+    "key_sha256_prefix": "1e389e07",
+    "first_reported_at": "2026-04-22T14:18:56.440125750Z",
+    "issue_url": "https://github.com/Huzaifah-Altaf/manjin-ai-app/issues/1"
+  },
+  {
+    "repo_full_name": "riteshkoli13/AI-ChatBot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "b719ce68",
+    "first_reported_at": "2026-04-22T14:19:26.855033923Z",
+    "issue_url": "https://github.com/riteshkoli13/AI-ChatBot/issues/1"
   }
 ]
