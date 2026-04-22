@@ -593,5 +593,40 @@
     "key_sha256_prefix": "c8334ad6",
     "first_reported_at": "2026-04-21T22:09:16.802292378Z",
     "issue_url": "https://github.com/sahar-saidani/Markini/issues/2"
+  },
+  {
+    "repo_full_name": "sanity-labs/secret-scan",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "e00fc389",
+    "first_reported_at": "2026-04-22T03:50:40.850227545Z",
+    "issue_url": "https://github.com/sanity-labs/secret-scan/issues/1"
+  },
+  {
+    "repo_full_name": "tweneboah/Full-Stack-Web-Development-Bootcamp-Course",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "f9d4f24e",
+    "first_reported_at": "2026-04-22T03:51:11.247670691Z",
+    "issue_url": "https://github.com/tweneboah/Full-Stack-Web-Development-Bootcamp-Course/issues/13"
+  },
+  {
+    "repo_full_name": "digitaldynamics348-sketch/ScholarSync",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "051001d7",
+    "first_reported_at": "2026-04-22T03:51:41.620121895Z",
+    "issue_url": "https://github.com/digitaldynamics348-sketch/ScholarSync/issues/1"
+  },
+  {
+    "repo_full_name": "yusufocaliskan/DocReaderAI",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "40cb7f62",
+    "first_reported_at": "2026-04-22T03:52:12.150073419Z",
+    "issue_url": "https://github.com/yusufocaliskan/DocReaderAI/issues/1"
+  },
+  {
+    "repo_full_name": "rrayatec/tese2024",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "050c4f9e",
+    "first_reported_at": "2026-04-22T03:52:42.553180568Z",
+    "issue_url": "https://github.com/rrayatec/tese2024/issues/1"
   }
 ]
