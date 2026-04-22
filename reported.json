@@ -663,5 +663,40 @@
     "key_sha256_prefix": "9348b89d",
     "first_reported_at": "2026-04-22T08:16:02.831483451Z",
     "issue_url": "https://github.com/mandeeps1nghh/rocket/issues/1"
+  },
+  {
+    "repo_full_name": "sahar-saidani/Markini",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "d881c7e2",
+    "first_reported_at": "2026-04-22T10:50:39.167975073Z",
+    "issue_url": "https://github.com/sahar-saidani/Markini/issues/3"
+  },
+  {
+    "repo_full_name": "sonirn/vidpro",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "0c600a7f",
+    "first_reported_at": "2026-04-22T10:51:09.573166150Z",
+    "issue_url": "https://github.com/sonirn/vidpro/issues/2"
+  },
+  {
+    "repo_full_name": "sonirn/vidpro",
+    "rule_id": "groq",
+    "key_sha256_prefix": "280053c9",
+    "first_reported_at": "2026-04-22T10:51:40.029508231Z",
+    "issue_url": "https://github.com/sonirn/vidpro/issues/3"
+  },
+  {
+    "repo_full_name": "RoseSecurity/Red-Teaming-TTPs",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "14403e7d",
+    "first_reported_at": "2026-04-22T10:52:10.466153552Z",
+    "issue_url": "https://github.com/RoseSecurity/Red-Teaming-TTPs/issues/12"
+  },
+  {
+    "repo_full_name": "godlygodzilla/Turing-Test-ChatGPT_poem_classifier",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "5f3c92f9",
+    "first_reported_at": "2026-04-22T10:52:40.898541229Z",
+    "issue_url": "https://github.com/godlygodzilla/Turing-Test-ChatGPT_poem_classifier/issues/2"
   }
 ]
