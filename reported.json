@@ -628,5 +628,40 @@
     "key_sha256_prefix": "050c4f9e",
     "first_reported_at": "2026-04-22T03:52:42.553180568Z",
     "issue_url": "https://github.com/rrayatec/tese2024/issues/1"
+  },
+  {
+    "repo_full_name": "yashgv/LetsTryBot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "88ce8fbe",
+    "first_reported_at": "2026-04-22T08:14:00.904819687Z",
+    "issue_url": "https://github.com/yashgv/LetsTryBot/issues/1"
+  },
+  {
+    "repo_full_name": "dhruv-developer/VisionX-Backend",
+    "rule_id": "groq",
+    "key_sha256_prefix": "e00bce86",
+    "first_reported_at": "2026-04-22T08:14:31.399599475Z",
+    "issue_url": "https://github.com/dhruv-developer/VisionX-Backend/issues/2"
+  },
+  {
+    "repo_full_name": "chegeMP/Your_chat",
+    "rule_id": "groq",
+    "key_sha256_prefix": "6ddb5345",
+    "first_reported_at": "2026-04-22T08:15:01.943615024Z",
+    "issue_url": "https://github.com/chegeMP/Your_chat/issues/1"
+  },
+  {
+    "repo_full_name": "setupmyapp/testserve_frontend_new_python",
+    "rule_id": "groq",
+    "key_sha256_prefix": "c3fbbef4",
+    "first_reported_at": "2026-04-22T08:15:32.393728621Z",
+    "issue_url": "https://github.com/setupmyapp/testserve_frontend_new_python/issues/16"
+  },
+  {
+    "repo_full_name": "mandeeps1nghh/rocket",
+    "rule_id": "groq",
+    "key_sha256_prefix": "9348b89d",
+    "first_reported_at": "2026-04-22T08:16:02.831483451Z",
+    "issue_url": "https://github.com/mandeeps1nghh/rocket/issues/1"
   }
 ]
