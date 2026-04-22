@@ -803,5 +803,40 @@
     "key_sha256_prefix": "4ea87a3c",
     "first_reported_at": "2026-04-22T19:49:20.995482927Z",
     "issue_url": "https://github.com/AbdullA-Ababakre/AiChatBot/issues/1"
+  },
+  {
+    "repo_full_name": "raptr45/play-youtube-shorts-as-videos",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "3bebb20b",
+    "first_reported_at": "2026-04-22T22:13:14.377518268Z",
+    "issue_url": "https://github.com/raptr45/play-youtube-shorts-as-videos/issues/2"
+  },
+  {
+    "repo_full_name": "radfares/betty",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "c485b4c6",
+    "first_reported_at": "2026-04-22T22:13:45.091371750Z",
+    "issue_url": "https://github.com/radfares/betty/issues/1"
+  },
+  {
+    "repo_full_name": "connectamey/husky-ai",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "5e066ab1",
+    "first_reported_at": "2026-04-22T22:14:15.550049393Z",
+    "issue_url": "https://github.com/connectamey/husky-ai/issues/7"
+  },
+  {
+    "repo_full_name": "youtube-analysis/YoutubeAnalysis",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "2ea6191e",
+    "first_reported_at": "2026-04-22T22:14:46.063358546Z",
+    "issue_url": "https://github.com/youtube-analysis/YoutubeAnalysis/issues/1"
+  },
+  {
+    "repo_full_name": "rakshith1211/RECIPE-GENERATION-AND-NUTRITION-ANALYSIS-FROM-FOOD-IMAGE-USING-DEEP-LEARNING-TECHNOQUES",
+    "rule_id": "groq",
+    "key_sha256_prefix": "4ad3ee20",
+    "first_reported_at": "2026-04-22T22:15:16.523302335Z",
+    "issue_url": "https://github.com/rakshith1211/RECIPE-GENERATION-AND-NUTRITION-ANALYSIS-FROM-FOOD-IMAGE-USING-DEEP-LEARNING-TECHNOQUES/issues/1"
   }
 ]
