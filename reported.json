@@ -733,5 +733,40 @@
     "key_sha256_prefix": "b719ce68",
     "first_reported_at": "2026-04-22T14:19:26.855033923Z",
     "issue_url": "https://github.com/riteshkoli13/AI-ChatBot/issues/1"
+  },
+  {
+    "repo_full_name": "unstory-app/DrivePlyr",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "f9176f55",
+    "first_reported_at": "2026-04-22T16:27:01.358725017Z",
+    "issue_url": "https://github.com/unstory-app/DrivePlyr/issues/5"
+  },
+  {
+    "repo_full_name": "ezaz-ahamed/212CSE499.12",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "15031905",
+    "first_reported_at": "2026-04-22T16:27:31.730804258Z",
+    "issue_url": "https://github.com/ezaz-ahamed/212CSE499.12/issues/5"
+  },
+  {
+    "repo_full_name": "ayusingh-54/HireKarma",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "e9028449",
+    "first_reported_at": "2026-04-22T16:28:02.099916845Z",
+    "issue_url": "https://github.com/ayusingh-54/HireKarma/issues/1"
+  },
+  {
+    "repo_full_name": "web-wizrd/Buzzy-Bots",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "9986bd7a",
+    "first_reported_at": "2026-04-22T16:28:32.476751533Z",
+    "issue_url": "https://github.com/web-wizrd/Buzzy-Bots/issues/2"
+  },
+  {
+    "repo_full_name": "SuperHumansInTech/GL3AM",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "e90cea30",
+    "first_reported_at": "2026-04-22T16:29:02.925769336Z",
+    "issue_url": "https://github.com/SuperHumansInTech/GL3AM/issues/39"
   }
 ]
