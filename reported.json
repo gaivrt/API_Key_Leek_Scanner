@@ -873,5 +873,40 @@
     "key_sha256_prefix": "16747bf3",
     "first_reported_at": "2026-04-23T03:57:39.988017340Z",
     "issue_url": "https://github.com/thinkful-c11/Capstone-Kyle-0--Kyle-1--Jonathan/issues/9"
+  },
+  {
+    "repo_full_name": "rdsimon13/iSayItForward-iOS",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "48018d39",
+    "first_reported_at": "2026-04-23T08:18:53.829379061Z",
+    "issue_url": "https://github.com/rdsimon13/iSayItForward-iOS/issues/35"
+  },
+  {
+    "repo_full_name": "adhi-thirumala/oxeye",
+    "rule_id": "stripe-secret-live",
+    "key_sha256_prefix": "2bdb30b6",
+    "first_reported_at": "2026-04-23T08:19:24.194686460Z",
+    "issue_url": "https://github.com/adhi-thirumala/oxeye/issues/31"
+  },
+  {
+    "repo_full_name": "danieltamas/cloak",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-23T08:19:54.531163128Z",
+    "issue_url": "https://github.com/danieltamas/cloak/issues/4"
+  },
+  {
+    "repo_full_name": "trufflesecurity/Trufflehog-Chrome-Extension",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "3057bf1c",
+    "first_reported_at": "2026-04-23T08:20:24.968139253Z",
+    "issue_url": "https://github.com/trufflesecurity/Trufflehog-Chrome-Extension/issues/14"
+  },
+  {
+    "repo_full_name": "sourcegraph-community/no-secrets",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "dc085b40",
+    "first_reported_at": "2026-04-23T08:20:55.434825548Z",
+    "issue_url": "https://github.com/sourcegraph-community/no-secrets/issues/8"
   }
 ]
