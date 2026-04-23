@@ -838,5 +838,40 @@
     "key_sha256_prefix": "4ad3ee20",
     "first_reported_at": "2026-04-22T22:15:16.523302335Z",
     "issue_url": "https://github.com/rakshith1211/RECIPE-GENERATION-AND-NUTRITION-ANALYSIS-FROM-FOOD-IMAGE-USING-DEEP-LEARNING-TECHNOQUES/issues/1"
+  },
+  {
+    "repo_full_name": "Bluenot3/VIP_GPT",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "b4527317",
+    "first_reported_at": "2026-04-23T03:55:38.248238935Z",
+    "issue_url": "https://github.com/Bluenot3/VIP_GPT/issues/2"
+  },
+  {
+    "repo_full_name": "TechUniv2018/naksha",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "afde0393",
+    "first_reported_at": "2026-04-23T03:56:08.691479651Z",
+    "issue_url": "https://github.com/TechUniv2018/naksha/issues/2"
+  },
+  {
+    "repo_full_name": "brenofreguglia/OpenAiWhatsApp",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "48c875b7",
+    "first_reported_at": "2026-04-23T03:56:39.131406467Z",
+    "issue_url": "https://github.com/brenofreguglia/OpenAiWhatsApp/issues/5"
+  },
+  {
+    "repo_full_name": "ober/jerboa-gitsafe",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-23T03:57:09.545446052Z",
+    "issue_url": "https://github.com/ober/jerboa-gitsafe/issues/1"
+  },
+  {
+    "repo_full_name": "thinkful-c11/Capstone-Kyle-0--Kyle-1--Jonathan",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "16747bf3",
+    "first_reported_at": "2026-04-23T03:57:39.988017340Z",
+    "issue_url": "https://github.com/thinkful-c11/Capstone-Kyle-0--Kyle-1--Jonathan/issues/9"
   }
 ]
