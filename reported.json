@@ -908,5 +908,33 @@
     "key_sha256_prefix": "dc085b40",
     "first_reported_at": "2026-04-23T08:20:55.434825548Z",
     "issue_url": "https://github.com/sourcegraph-community/no-secrets/issues/8"
+  },
+  {
+    "repo_full_name": "chinthaka2000/university-voting-system-Group_15-",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "9a18886a",
+    "first_reported_at": "2026-04-23T10:55:58.826132155Z",
+    "issue_url": "https://github.com/chinthaka2000/university-voting-system-Group_15-/issues/7"
+  },
+  {
+    "repo_full_name": "nyc-wolves-2016/children_of_POODR",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "962afa37",
+    "first_reported_at": "2026-04-23T10:56:29.317852647Z",
+    "issue_url": "https://github.com/nyc-wolves-2016/children_of_POODR/issues/6"
+  },
+  {
+    "repo_full_name": "AdhishaSamarasinghe/workzup",
+    "rule_id": "groq",
+    "key_sha256_prefix": "d407a3df",
+    "first_reported_at": "2026-04-23T10:56:59.724826448Z",
+    "issue_url": "https://github.com/AdhishaSamarasinghe/workzup/issues/27"
+  },
+  {
+    "repo_full_name": "vaibhavpacharya/Projects-using-jQuery-and-Javascript",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "9b88a7a5",
+    "first_reported_at": "2026-04-23T10:57:30.162599774Z",
+    "issue_url": "https://github.com/vaibhavpacharya/Projects-using-jQuery-and-Javascript/issues/2"
   }
 ]
