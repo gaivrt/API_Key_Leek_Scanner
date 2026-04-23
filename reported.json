@@ -1006,5 +1006,40 @@
     "key_sha256_prefix": "92d1acad",
     "first_reported_at": "2026-04-23T17:03:07.464733191Z",
     "issue_url": "https://github.com/buridiaditya/DBMS/issues/1"
+  },
+  {
+    "repo_full_name": "Punchzin/EasyProg",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "92054d0c",
+    "first_reported_at": "2026-04-23T19:49:12.601953158Z",
+    "issue_url": "https://github.com/Punchzin/EasyProg/issues/14"
+  },
+  {
+    "repo_full_name": "Bhawneet1/Calorie_tracker",
+    "rule_id": "groq",
+    "key_sha256_prefix": "753c72c7",
+    "first_reported_at": "2026-04-23T19:49:42.952400551Z",
+    "issue_url": "https://github.com/Bhawneet1/Calorie_tracker/issues/1"
+  },
+  {
+    "repo_full_name": "StareInTheAir/dldu-points",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "b89d1387",
+    "first_reported_at": "2026-04-23T19:50:13.311701771Z",
+    "issue_url": "https://github.com/StareInTheAir/dldu-points/issues/39"
+  },
+  {
+    "repo_full_name": "2mdsajid/rajbasel",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "fd3e2fae",
+    "first_reported_at": "2026-04-23T19:50:43.701369654Z",
+    "issue_url": "https://github.com/2mdsajid/rajbasel/issues/1"
+  },
+  {
+    "repo_full_name": "AminulIslamSifat/phantom",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "ebb8e2ae",
+    "first_reported_at": "2026-04-23T19:51:14.089255056Z",
+    "issue_url": "https://github.com/AminulIslamSifat/phantom/issues/8"
   }
 ]
