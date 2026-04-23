@@ -936,5 +936,40 @@
     "key_sha256_prefix": "9b88a7a5",
     "first_reported_at": "2026-04-23T10:57:30.162599774Z",
     "issue_url": "https://github.com/vaibhavpacharya/Projects-using-jQuery-and-Javascript/issues/2"
+  },
+  {
+    "repo_full_name": "abhroys/JKLU_chatbot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "49d4d4c9",
+    "first_reported_at": "2026-04-23T14:19:33.549891726Z",
+    "issue_url": "https://github.com/abhroys/JKLU_chatbot/issues/1"
+  },
+  {
+    "repo_full_name": "zoro-zuro/price-watch",
+    "rule_id": "groq",
+    "key_sha256_prefix": "9f8049e7",
+    "first_reported_at": "2026-04-23T14:20:03.922789672Z",
+    "issue_url": "https://github.com/zoro-zuro/price-watch/issues/1"
+  },
+  {
+    "repo_full_name": "sourcegraph-community/no-secrets",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "11cd88b9",
+    "first_reported_at": "2026-04-23T14:20:34.279058081Z",
+    "issue_url": "https://github.com/sourcegraph-community/no-secrets/issues/9"
+  },
+  {
+    "repo_full_name": "sourcegraph-community/no-secrets",
+    "rule_id": "stripe-restricted-live",
+    "key_sha256_prefix": "251ad27f",
+    "first_reported_at": "2026-04-23T14:21:04.780158235Z",
+    "issue_url": "https://github.com/sourcegraph-community/no-secrets/issues/10"
+  },
+  {
+    "repo_full_name": "opena2a-org/secretless-ai",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-23T14:21:35.209429450Z",
+    "issue_url": "https://github.com/opena2a-org/secretless-ai/issues/58"
   }
 ]
