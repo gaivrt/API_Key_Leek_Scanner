@@ -1041,5 +1041,33 @@
     "key_sha256_prefix": "ebb8e2ae",
     "first_reported_at": "2026-04-23T19:51:14.089255056Z",
     "issue_url": "https://github.com/AminulIslamSifat/phantom/issues/8"
+  },
+  {
+    "repo_full_name": "tonymach/SlackShield",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-23T22:10:09.511849740Z",
+    "issue_url": "https://github.com/tonymach/SlackShield/issues/1"
+  },
+  {
+    "repo_full_name": "coo-quack/sensitive-canary",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-23T22:10:39.908526315Z",
+    "issue_url": "https://github.com/coo-quack/sensitive-canary/issues/79"
+  },
+  {
+    "repo_full_name": "avi-dev-machine/mautkakhel",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "e6968c39",
+    "first_reported_at": "2026-04-23T22:11:10.239100429Z",
+    "issue_url": "https://github.com/avi-dev-machine/mautkakhel/issues/1"
+  },
+  {
+    "repo_full_name": "aigpt-5/aiGPT",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "2d1501db",
+    "first_reported_at": "2026-04-23T22:11:40.612221314Z",
+    "issue_url": "https://github.com/aigpt-5/aiGPT/issues/1"
   }
 ]
