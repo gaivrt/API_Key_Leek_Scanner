@@ -1153,5 +1153,40 @@
     "key_sha256_prefix": "9366790c",
     "first_reported_at": "2026-04-24T16:23:04.298956387Z",
     "issue_url": "https://github.com/HpKing360/Music-Recommendations-Using-Emotions/issues/1"
+  },
+  {
+    "repo_full_name": "AhmedAbdelhedi899/projet_final",
+    "rule_id": "groq",
+    "key_sha256_prefix": "8fd1536a",
+    "first_reported_at": "2026-04-24T19:21:22.284377509Z",
+    "issue_url": "https://github.com/AhmedAbdelhedi899/projet_final/issues/1"
+  },
+  {
+    "repo_full_name": "kdivyanshu5/UCS748_102217069_102217080",
+    "rule_id": "groq",
+    "key_sha256_prefix": "ea39be38",
+    "first_reported_at": "2026-04-24T19:21:52.560633718Z",
+    "issue_url": "https://github.com/kdivyanshu5/UCS748_102217069_102217080/issues/1"
+  },
+  {
+    "repo_full_name": "SarishaJ11/atlas",
+    "rule_id": "stripe-secret-live",
+    "key_sha256_prefix": "dd7366d4",
+    "first_reported_at": "2026-04-24T19:22:22.846601494Z",
+    "issue_url": "https://github.com/SarishaJ11/atlas/issues/58"
+  },
+  {
+    "repo_full_name": "evanyeung/terminal-slack",
+    "rule_id": "slack-user",
+    "key_sha256_prefix": "bf66c2de",
+    "first_reported_at": "2026-04-24T19:22:53.136116794Z",
+    "issue_url": "https://github.com/evanyeung/terminal-slack/issues/78"
+  },
+  {
+    "repo_full_name": "mtwyford/PiSign",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "0e57a7e1",
+    "first_reported_at": "2026-04-24T19:23:23.416401381Z",
+    "issue_url": "https://github.com/mtwyford/PiSign/issues/1"
   }
 ]
