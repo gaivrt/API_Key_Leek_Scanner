@@ -1188,5 +1188,33 @@
     "key_sha256_prefix": "0e57a7e1",
     "first_reported_at": "2026-04-24T19:23:23.416401381Z",
     "issue_url": "https://github.com/mtwyford/PiSign/issues/1"
+  },
+  {
+    "repo_full_name": "UCCS-CS4300-5300/group4_fall2022",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "c1297dc4",
+    "first_reported_at": "2026-04-24T22:10:34.243454914Z",
+    "issue_url": "https://github.com/UCCS-CS4300-5300/group4_fall2022/issues/20"
+  },
+  {
+    "repo_full_name": "mdariad1/Chatbot_Backend",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "4f2b083f",
+    "first_reported_at": "2026-04-24T22:11:05.146507683Z",
+    "issue_url": "https://github.com/mdariad1/Chatbot_Backend/issues/1"
+  },
+  {
+    "repo_full_name": "EvanLeung08/wechat-ai-robot",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "4ef4041e",
+    "first_reported_at": "2026-04-24T22:11:36.046483936Z",
+    "issue_url": "https://github.com/EvanLeung08/wechat-ai-robot/issues/1"
+  },
+  {
+    "repo_full_name": "sharifulislam141/aichat",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "42dbf5aa",
+    "first_reported_at": "2026-04-24T22:12:36.599208798Z",
+    "issue_url": "https://github.com/sharifulislam141/aichat/issues/1"
   }
 ]
