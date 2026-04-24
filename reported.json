@@ -1069,5 +1069,26 @@
     "key_sha256_prefix": "2d1501db",
     "first_reported_at": "2026-04-23T22:11:40.612221314Z",
     "issue_url": "https://github.com/aigpt-5/aiGPT/issues/1"
+  },
+  {
+    "repo_full_name": "TahaBakhtari/VibeCrm",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "1f1f95a2",
+    "first_reported_at": "2026-04-24T03:58:57.385358417Z",
+    "issue_url": "https://github.com/TahaBakhtari/VibeCrm/issues/1"
+  },
+  {
+    "repo_full_name": "kyawsanoo2364/Make-Own-Discord-Bot",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "7ff491dd",
+    "first_reported_at": "2026-04-24T03:59:27.672818871Z",
+    "issue_url": "https://github.com/kyawsanoo2364/Make-Own-Discord-Bot/issues/2"
+  },
+  {
+    "repo_full_name": "naver/notify-pr-review",
+    "rule_id": "slack-bot",
+    "key_sha256_prefix": "1762739a",
+    "first_reported_at": "2026-04-24T04:00:28.091455088Z",
+    "issue_url": "https://github.com/naver/notify-pr-review/issues/10"
   }
 ]
