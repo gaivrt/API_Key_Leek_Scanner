@@ -1104,5 +1104,26 @@
     "key_sha256_prefix": "5f71f98b",
     "first_reported_at": "2026-04-24T08:31:27.909032797Z",
     "issue_url": "https://github.com/RocketDav1d/callforce-worker-backend/issues/3"
+  },
+  {
+    "repo_full_name": "arijitde92/Github_Code_Analysis_Tool",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "3b37026c",
+    "first_reported_at": "2026-04-24T14:15:38.414365043Z",
+    "issue_url": "https://github.com/arijitde92/Github_Code_Analysis_Tool/issues/1"
+  },
+  {
+    "repo_full_name": "arijitde92/Github_Code_Analysis_Tool",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "db024746",
+    "first_reported_at": "2026-04-24T14:16:08.865384951Z",
+    "issue_url": "https://github.com/arijitde92/Github_Code_Analysis_Tool/issues/2"
+  },
+  {
+    "repo_full_name": "kietmcaproject/2023_24_KCA451_Project",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "64edc3ae",
+    "first_reported_at": "2026-04-24T14:16:39.369392951Z",
+    "issue_url": "https://github.com/kietmcaproject/2023_24_KCA451_Project/issues/8"
   }
 ]
