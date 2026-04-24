@@ -1090,5 +1090,19 @@
     "key_sha256_prefix": "1762739a",
     "first_reported_at": "2026-04-24T04:00:28.091455088Z",
     "issue_url": "https://github.com/naver/notify-pr-review/issues/10"
+  },
+  {
+    "repo_full_name": "RocketDav1d/callforce-worker-backend",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "93c812df",
+    "first_reported_at": "2026-04-24T08:30:57.614618088Z",
+    "issue_url": "https://github.com/RocketDav1d/callforce-worker-backend/issues/2"
+  },
+  {
+    "repo_full_name": "RocketDav1d/callforce-worker-backend",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "5f71f98b",
+    "first_reported_at": "2026-04-24T08:31:27.909032797Z",
+    "issue_url": "https://github.com/RocketDav1d/callforce-worker-backend/issues/3"
   }
 ]
