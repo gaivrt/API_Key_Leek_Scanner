@@ -1125,5 +1125,33 @@
     "key_sha256_prefix": "64edc3ae",
     "first_reported_at": "2026-04-24T14:16:39.369392951Z",
     "issue_url": "https://github.com/kietmcaproject/2023_24_KCA451_Project/issues/8"
+  },
+  {
+    "repo_full_name": "akhileshh-b/hackhazards",
+    "rule_id": "groq",
+    "key_sha256_prefix": "40cbf6c7",
+    "first_reported_at": "2026-04-24T16:21:02.918773786Z",
+    "issue_url": "https://github.com/akhileshh-b/hackhazards/issues/1"
+  },
+  {
+    "repo_full_name": "rigidus/.emacs.d",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "f260cf56",
+    "first_reported_at": "2026-04-24T16:21:33.279598058Z",
+    "issue_url": "https://github.com/rigidus/.emacs.d/issues/1"
+  },
+  {
+    "repo_full_name": "minikiller/streamlit-project",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "859f0a8e",
+    "first_reported_at": "2026-04-24T16:22:03.666903870Z",
+    "issue_url": "https://github.com/minikiller/streamlit-project/issues/2"
+  },
+  {
+    "repo_full_name": "HpKing360/Music-Recommendations-Using-Emotions",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "9366790c",
+    "first_reported_at": "2026-04-24T16:23:04.298956387Z",
+    "issue_url": "https://github.com/HpKing360/Music-Recommendations-Using-Emotions/issues/1"
   }
 ]
