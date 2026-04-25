@@ -1244,5 +1244,26 @@
     "key_sha256_prefix": "333b7871",
     "first_reported_at": "2026-04-25T03:42:55.227160332Z",
     "issue_url": "https://github.com/lindeci/welcome/issues/1"
+  },
+  {
+    "repo_full_name": "ivanstylish/ITMO-Study-Note",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "3fb0831e",
+    "first_reported_at": "2026-04-25T07:52:34.139973012Z",
+    "issue_url": "https://github.com/ivanstylish/ITMO-Study-Note/issues/6"
+  },
+  {
+    "repo_full_name": "Akki-droid/target_audience_segmentation_crew",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "883f7571",
+    "first_reported_at": "2026-04-25T07:53:04.907748089Z",
+    "issue_url": "https://github.com/Akki-droid/target_audience_segmentation_crew/issues/1"
+  },
+  {
+    "repo_full_name": "tayyab9ahmed/Wedishedi",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "8eb49e90",
+    "first_reported_at": "2026-04-25T07:54:35.705156796Z",
+    "issue_url": "https://github.com/tayyab9ahmed/Wedishedi/issues/1"
   }
 ]
