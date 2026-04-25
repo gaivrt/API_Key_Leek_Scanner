@@ -1216,5 +1216,33 @@
     "key_sha256_prefix": "42dbf5aa",
     "first_reported_at": "2026-04-24T22:12:36.599208798Z",
     "issue_url": "https://github.com/sharifulislam141/aichat/issues/1"
+  },
+  {
+    "repo_full_name": "Raufjatoi/vid-2.0",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "8487c2fc",
+    "first_reported_at": "2026-04-25T03:40:24.157303596Z",
+    "issue_url": "https://github.com/Raufjatoi/vid-2.0/issues/1"
+  },
+  {
+    "repo_full_name": "paul-gauthier/easy-chat",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "16a386aa",
+    "first_reported_at": "2026-04-25T03:41:24.586989957Z",
+    "issue_url": "https://github.com/paul-gauthier/easy-chat/issues/1"
+  },
+  {
+    "repo_full_name": "HomieTal/Truthshield",
+    "rule_id": "groq",
+    "key_sha256_prefix": "c99a3372",
+    "first_reported_at": "2026-04-25T03:41:54.856844500Z",
+    "issue_url": "https://github.com/HomieTal/Truthshield/issues/1"
+  },
+  {
+    "repo_full_name": "lindeci/welcome",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "333b7871",
+    "first_reported_at": "2026-04-25T03:42:55.227160332Z",
+    "issue_url": "https://github.com/lindeci/welcome/issues/1"
   }
 ]
