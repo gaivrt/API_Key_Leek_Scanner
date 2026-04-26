@@ -1265,5 +1265,26 @@
     "key_sha256_prefix": "8eb49e90",
     "first_reported_at": "2026-04-25T07:54:35.705156796Z",
     "issue_url": "https://github.com/tayyab9ahmed/Wedishedi/issues/1"
+  },
+  {
+    "repo_full_name": "arifsuz/AI-ReactXGroq",
+    "rule_id": "groq",
+    "key_sha256_prefix": "dc7628cd",
+    "first_reported_at": "2026-04-26T08:03:03.017880850Z",
+    "issue_url": "https://github.com/arifsuz/AI-ReactXGroq/issues/2"
+  },
+  {
+    "repo_full_name": "AbdallahOmran629/telegram-ai-bot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "16d0acfe",
+    "first_reported_at": "2026-04-26T08:04:33.938030453Z",
+    "issue_url": "https://github.com/AbdallahOmran629/telegram-ai-bot/issues/1"
+  },
+  {
+    "repo_full_name": "Abishekjoel/CareNova",
+    "rule_id": "groq",
+    "key_sha256_prefix": "f41608bc",
+    "first_reported_at": "2026-04-26T08:05:04.353426386Z",
+    "issue_url": "https://github.com/Abishekjoel/CareNova/issues/1"
   }
 ]
