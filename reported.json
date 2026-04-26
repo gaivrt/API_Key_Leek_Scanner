@@ -1286,5 +1286,19 @@
     "key_sha256_prefix": "f41608bc",
     "first_reported_at": "2026-04-26T08:05:04.353426386Z",
     "issue_url": "https://github.com/Abishekjoel/CareNova/issues/1"
+  },
+  {
+    "repo_full_name": "anushkaSri-04/Predictive-Theft-Modelling-in-PSBs",
+    "rule_id": "groq",
+    "key_sha256_prefix": "1b726350",
+    "first_reported_at": "2026-04-26T10:14:45.014363805Z",
+    "issue_url": "https://github.com/anushkaSri-04/Predictive-Theft-Modelling-in-PSBs/issues/1"
+  },
+  {
+    "repo_full_name": "tuanstran26/File_Query_Bot",
+    "rule_id": "groq",
+    "key_sha256_prefix": "1346aa7a",
+    "first_reported_at": "2026-04-26T10:15:15.295970090Z",
+    "issue_url": "https://github.com/tuanstran26/File_Query_Bot/issues/1"
   }
 ]
