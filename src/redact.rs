@@ -3,12 +3,12 @@
 //! that the full key cannot be meaningfully reconstructed from `Finding`.
 //!
 //! Output shape:
-//!   - `prefix`:        first N bytes of the key, where N = min(8, key.len()/4).
-//!                      Scales with key length so short keys (e.g. 20-byte AWS
-//!                      access key IDs) do not leak most of their entropy.
+//!   - `prefix`: first N bytes of the key, where N = min(8, key.len()/4).
+//!     Scales with key length so short keys (e.g. 20-byte AWS access key IDs)
+//!     do not leak most of their entropy.
 //!   - `sha256_prefix`: first 8 hex chars of SHA-256(key) — a stable dedup id
-//!                      that does not leak the key value
-//!   - `length`:        full length in bytes
+//!     that does not leak the key value.
+//!   - `length`: full length in bytes.
 
 use serde::{Deserialize, Serialize};
 use sha2::{Digest, Sha256};

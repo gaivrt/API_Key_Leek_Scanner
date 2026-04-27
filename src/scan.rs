@@ -19,7 +19,7 @@ use futures::stream::{self, StreamExt};
 use crate::filters;
 use crate::github::{self, Hit};
 use crate::redact;
-use crate::rules::{self, Finding, RULES, RULE_SET};
+use crate::rules::{Finding, RULES, RULE_SET};
 
 const FETCH_CONCURRENCY: usize = 128;
 const SEARCH_PER_PAGE: u32 = 30;
