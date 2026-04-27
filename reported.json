@@ -1300,5 +1300,40 @@
     "key_sha256_prefix": "1346aa7a",
     "first_reported_at": "2026-04-26T10:15:15.295970090Z",
     "issue_url": "https://github.com/tuanstran26/File_Query_Bot/issues/1"
+  },
+  {
+    "repo_full_name": "koki-develop/gat",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-27T04:08:19.239092582Z",
+    "issue_url": "https://github.com/koki-develop/gat/issues/264"
+  },
+  {
+    "repo_full_name": "Coff0xc/Github-API-scan",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "46eb1235",
+    "first_reported_at": "2026-04-27T04:08:49.768761407Z",
+    "issue_url": "https://github.com/Coff0xc/Github-API-scan/issues/2"
+  },
+  {
+    "repo_full_name": "jupegarnica/regular_expressions",
+    "rule_id": "aws-access-key",
+    "key_sha256_prefix": "1a5d44a2",
+    "first_reported_at": "2026-04-27T04:09:20.693171281Z",
+    "issue_url": "https://github.com/jupegarnica/regular_expressions/issues/14"
+  },
+  {
+    "repo_full_name": "jupegarnica/regular_expressions",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "bf4722b7",
+    "first_reported_at": "2026-04-27T04:09:51.085353299Z",
+    "issue_url": "https://github.com/jupegarnica/regular_expressions/issues/15"
+  },
+  {
+    "repo_full_name": "jupegarnica/regular_expressions",
+    "rule_id": "github-pat-server",
+    "key_sha256_prefix": "5d9f730b",
+    "first_reported_at": "2026-04-27T04:10:21.468480022Z",
+    "issue_url": "https://github.com/jupegarnica/regular_expressions/issues/16"
   }
 ]
