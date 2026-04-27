@@ -38,6 +38,7 @@ pub struct Rule {
     pub min_len: usize,
     /// `security@<vendor>.com` or equivalent. `None` = no known contact.
     pub disclosure_email: Option<&'static str>,
+    #[allow(dead_code)]
     pub confidence: Confidence,
 }
 
