@@ -16,6 +16,7 @@ use std::sync::Arc;
 use anyhow::{Context, Result};
 use futures::stream::{self, StreamExt};
 
+use crate::filters;
 use crate::github::{self, Hit};
 use crate::redact;
 use crate::rules::{self, Finding, RULES, RULE_SET};
@@ -105,6 +106,11 @@ pub(crate) fn match_blob(hit: &Hit, blob: &str) -> Vec<Finding> {
         for m in rule.regex.find_iter(blob) {
             let key = m.as_str();
             if key.len() < rule.min_len {
+                continue;
+            }
+            // Suppress vendor-published example keys (e.g. AWS docs'
+            // AKIAIOSFODNN7EXAMPLE) before they can become a Finding.
+            if filters::is_known_example_key(key) {
                 continue;
             }
             // Dedup per blob by sha256 prefix to avoid emitting the same key
@@ -207,6 +213,21 @@ mod tests {
         let blob = format!("{k} {k} {k}");
         let findings = match_blob(&hit("x/y", "a"), &blob);
         assert_eq!(findings.len(), 1);
+    }
+
+    /// Vendor-published example keys (e.g. AWS docs' AKIAIOSFODNN7EXAMPLE)
+    /// must not produce a Finding even though their syntax matches the rule.
+    /// Regression for the false-positive that triggered the
+    /// known-example-keys allowlist (see wiki/incidents/).
+    #[test]
+    fn match_blob_suppresses_known_example_keys() {
+        let example = format!("AKIA{}", "IOSFODNN7EXAMPLE");
+        let blob = format!("aws_access_key_id = {example}\n");
+        let findings = match_blob(&hit("octocat/demo", "README.md"), &blob);
+        assert!(
+            findings.is_empty(),
+            "AWS documented example key must be suppressed, got {findings:?}"
+        );
     }
 
     /// Across multiple hits in the same repo, identical (rule, sha256) pairs

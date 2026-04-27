@@ -23,3 +23,7 @@ GAN 审查：C2、C5 各经过 round-2 修复（redact 熵泄漏、within-run de
 - 写 `wiki/architecture/pipeline-stages.md` / `concurrency.md` / `state-storage.md`
 - 写 `wiki/decisions/0001-rust-over-python.md` ADR
 - 写 `wiki/vendors/_deferred.md` 记录延后的 6 个 Tier A 厂商及原因
+
+## [2026-04-27] ingest | AWS 公共示例 key 误报事件 + allowlist 修复
+
+某目标仓库收到我方提交的 `aws-access-key` issue，命中字符串拼起来是 AWS IAM 文档里的公共示例 key（`AKIAIOSFODNN7EXAMPLE`）；maintainer 礼貌关闭 issue 并指出该字符串在他们项目内部 allowlist 里。代码层修复：新增 `src/filters.rs` 的 `KNOWN_EXAMPLE_KEYS`（AWS 三连），在 `src/scan.rs::match_blob` 里 `min_len` 之后、redact 之前短路；新增 `filters::tests` 4 条 + `scan::tests::match_blob_suppresses_known_example_keys` 1 条，全部 29 测通过。知识层沉淀：`wiki/incidents/2026-04-aws-example-key-fp.md` 记录时间线、根因、修复、经验。`wiki/index.md` 在 Incidents 节加入对应链接。
