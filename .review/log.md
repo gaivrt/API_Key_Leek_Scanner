@@ -30,3 +30,7 @@ Context: issue.rs run_report — missing dedup_batch between state filter and ta
 ## [2026-04-19] leak-scanner/c5 | PASS (round 2)
 Pattern: dedup-batch tests must assert first-occurrence winner (not just size), so future edits that keep "some survivor" rather than "the first one" are caught.
 Context: issue.rs dedup_batch + dedup_batch_collapses_same_repo_and_rule test.
+
+## [2026-04-27] gan-known-example-allowlist/c1 | PASS
+Pattern: none. Confirmed — `match_blob` is the sole non-test producer of `Finding` in the crate; new `is_known_example_key` gate sits on the only path between `min_len` (scan.rs:108) and the `Finding` push (scan.rs:124), so a single byte-equality HashSet check is provably exhaustive. Worth citing: the `format!`-split-literal convention from redact.rs:61 / rules.rs:307 generalizes cleanly to runtime allowlists, no separate handling needed.
+Context: src/filters.rs + src/scan.rs:113 + scan::tests::match_blob_suppresses_known_example_keys. AWS docs example keys (AKIAIOSFODNN7EXAMPLE / AKIAI44QH8DHBEXAMPLE / wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY).

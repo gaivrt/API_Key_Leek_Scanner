@@ -1,6 +1,7 @@
 use anyhow::Result;
 use clap::{Parser, Subcommand};
 
+mod filters;
 mod github;
 mod issue;
 mod ratelimit;

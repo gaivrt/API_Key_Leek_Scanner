@@ -24,3 +24,4 @@
 ## Incidents
 
 <!-- 运行时遇到的 false positive / rate limit / ToS 事件在此记录 -->
+- [2026-04 AWS example-key FP](incidents/2026-04-aws-example-key-fp.md) — 误报 AKIAIOSFODNN7EXAMPLE 触发目标仓库 maintainer 关闭，已加 `src/filters.rs` allowlist
