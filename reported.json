@@ -1335,5 +1335,12 @@
     "key_sha256_prefix": "5d9f730b",
     "first_reported_at": "2026-04-27T04:10:21.468480022Z",
     "issue_url": "https://github.com/jupegarnica/regular_expressions/issues/16"
+  },
+  {
+    "repo_full_name": "lakshman7781/hackathon",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "05402000",
+    "first_reported_at": "2026-04-27T22:15:13.678225884Z",
+    "issue_url": "https://github.com/lakshman7781/hackathon/issues/1"
   }
 ]
