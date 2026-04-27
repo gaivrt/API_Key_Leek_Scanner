@@ -305,7 +305,7 @@ mod tests {
                 format!("pplx-{}", "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789ABCDEFGHIJKL"),
             ),
             ("aws-access-key", format!("AKIA{}", "IOSFODNN7EXAMPLE")),
-            ("github-pat-classic", format!("ghp_{}", alnum40.repeat(1))),
+            ("github-pat-classic", format!("ghp_{}", alnum40)),
             (
                 "github-pat-fine",
                 format!(
