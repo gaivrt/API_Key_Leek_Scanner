@@ -29,6 +29,7 @@ const API_VERSION: &str = "2022-11-28";
 #[derive(Debug, Deserialize)]
 pub struct SearchResponse {
     #[serde(default)]
+    #[allow(dead_code)]
     pub total_count: u64,
     #[serde(default)]
     pub items: Vec<Hit>,
@@ -130,7 +131,7 @@ impl Client {
             let body = resp.text().await.unwrap_or_default();
             return Err(anyhow!("blob {status}: {body}"));
         }
-        Ok(resp.text().await.context("blob text")?)
+        resp.text().await.context("blob text")
     }
 
     /// POST a new issue. Returns the created issue's `html_url`.
