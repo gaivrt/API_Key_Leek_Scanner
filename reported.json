@@ -1342,5 +1342,12 @@
     "key_sha256_prefix": "05402000",
     "first_reported_at": "2026-04-27T22:15:13.678225884Z",
     "issue_url": "https://github.com/lakshman7781/hackathon/issues/1"
+  },
+  {
+    "repo_full_name": "peetrixinfo-eng/fithub",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "fd07d276",
+    "first_reported_at": "2026-04-29T20:02:51.825015248Z",
+    "issue_url": "https://github.com/peetrixinfo-eng/fithub/issues/1"
   }
 ]
