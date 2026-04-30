@@ -1349,5 +1349,33 @@
     "key_sha256_prefix": "fd07d276",
     "first_reported_at": "2026-04-29T20:02:51.825015248Z",
     "issue_url": "https://github.com/peetrixinfo-eng/fithub/issues/1"
+  },
+  {
+    "repo_full_name": "Tanujkumar24/CORRECTIVE-RAG-WITH-LANGGRAPH",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "10b8b64d",
+    "first_reported_at": "2026-04-30T19:58:32.974168499Z",
+    "issue_url": "https://github.com/Tanujkumar24/CORRECTIVE-RAG-WITH-LANGGRAPH/issues/1"
+  },
+  {
+    "repo_full_name": "Tanujkumar24/CORRECTIVE-RAG-WITH-LANGGRAPH",
+    "rule_id": "groq",
+    "key_sha256_prefix": "a4fc1718",
+    "first_reported_at": "2026-04-30T19:59:03.372356667Z",
+    "issue_url": "https://github.com/Tanujkumar24/CORRECTIVE-RAG-WITH-LANGGRAPH/issues/2"
+  },
+  {
+    "repo_full_name": "namanj22/Youtube-Video-Summarization",
+    "rule_id": "groq",
+    "key_sha256_prefix": "7a1ee8cf",
+    "first_reported_at": "2026-04-30T19:59:33.753411555Z",
+    "issue_url": "https://github.com/namanj22/Youtube-Video-Summarization/issues/1"
+  },
+  {
+    "repo_full_name": "capernix/startup-bud",
+    "rule_id": "groq",
+    "key_sha256_prefix": "68a22376",
+    "first_reported_at": "2026-04-30T20:00:04.197903898Z",
+    "issue_url": "https://github.com/capernix/startup-bud/issues/1"
   }
 ]
