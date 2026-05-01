@@ -1391,5 +1391,19 @@
     "key_sha256_prefix": "394af963",
     "first_reported_at": "2026-05-01T08:33:58.674804979Z",
     "issue_url": "https://github.com/shama-anjum-11/wish_bot/issues/3"
+  },
+  {
+    "repo_full_name": "ITCellTreasury/admin2",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "f2ee82de",
+    "first_reported_at": "2026-05-01T19:46:59.412624057Z",
+    "issue_url": "https://github.com/ITCellTreasury/admin2/issues/1"
+  },
+  {
+    "repo_full_name": "Swasti20-coding/Security-Overview-of-QR-codes",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "ec931f5b",
+    "first_reported_at": "2026-05-01T19:47:59.979918711Z",
+    "issue_url": "https://github.com/Swasti20-coding/Security-Overview-of-QR-codes/issues/1"
   }
 ]
