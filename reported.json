@@ -1377,5 +1377,19 @@
     "key_sha256_prefix": "68a22376",
     "first_reported_at": "2026-04-30T20:00:04.197903898Z",
     "issue_url": "https://github.com/capernix/startup-bud/issues/1"
+  },
+  {
+    "repo_full_name": "zainalikhan-revolution/Friday---Your-Personal-AI-Assistant",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "15075678",
+    "first_reported_at": "2026-05-01T08:32:58.147845368Z",
+    "issue_url": "https://github.com/zainalikhan-revolution/Friday---Your-Personal-AI-Assistant/issues/1"
+  },
+  {
+    "repo_full_name": "shama-anjum-11/wish_bot",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "394af963",
+    "first_reported_at": "2026-05-01T08:33:58.674804979Z",
+    "issue_url": "https://github.com/shama-anjum-11/wish_bot/issues/3"
   }
 ]
