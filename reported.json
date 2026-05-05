@@ -1412,5 +1412,19 @@
     "key_sha256_prefix": "b6f6a700",
     "first_reported_at": "2026-05-05T17:03:26.996606658Z",
     "issue_url": "https://github.com/kenzycodex/kenbot/issues/1"
+  },
+  {
+    "repo_full_name": "alimoh02/ai-applications-LN3",
+    "rule_id": "groq",
+    "key_sha256_prefix": "71d95892",
+    "first_reported_at": "2026-05-05T22:21:14.894478512Z",
+    "issue_url": "https://github.com/alimoh02/ai-applications-LN3/issues/1"
+  },
+  {
+    "repo_full_name": "fdrmic/RAG",
+    "rule_id": "groq",
+    "key_sha256_prefix": "abc6e304",
+    "first_reported_at": "2026-05-05T22:22:15.831706609Z",
+    "issue_url": "https://github.com/fdrmic/RAG/issues/1"
   }
 ]
