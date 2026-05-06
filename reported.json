@@ -1426,5 +1426,12 @@
     "key_sha256_prefix": "abc6e304",
     "first_reported_at": "2026-05-05T22:22:15.831706609Z",
     "issue_url": "https://github.com/fdrmic/RAG/issues/1"
+  },
+  {
+    "repo_full_name": "granitagushi/LN3_AI_APPLICATION",
+    "rule_id": "groq",
+    "key_sha256_prefix": "5d7eafcb",
+    "first_reported_at": "2026-05-06T04:13:43.066642884Z",
+    "issue_url": "https://github.com/granitagushi/LN3_AI_APPLICATION/issues/1"
   }
 ]
