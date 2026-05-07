@@ -1433,5 +1433,12 @@
     "key_sha256_prefix": "5d7eafcb",
     "first_reported_at": "2026-05-06T04:13:43.066642884Z",
     "issue_url": "https://github.com/granitagushi/LN3_AI_APPLICATION/issues/1"
+  },
+  {
+    "repo_full_name": "venkatravi260719942/testrepo",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "b28beb17",
+    "first_reported_at": "2026-05-07T08:56:22.636045300Z",
+    "issue_url": "https://github.com/venkatravi260719942/testrepo/issues/3"
   }
 ]
