@@ -1440,5 +1440,40 @@
     "key_sha256_prefix": "b28beb17",
     "first_reported_at": "2026-05-07T08:56:22.636045300Z",
     "issue_url": "https://github.com/venkatravi260719942/testrepo/issues/3"
+  },
+  {
+    "repo_full_name": "Aarti-alt/SAR",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "1eca9107",
+    "first_reported_at": "2026-05-07T14:56:47.056247673Z",
+    "issue_url": "https://github.com/Aarti-alt/SAR/issues/4"
+  },
+  {
+    "repo_full_name": "Aarti-alt/SAR",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "b93be0c0",
+    "first_reported_at": "2026-05-07T14:57:17.581566197Z",
+    "issue_url": "https://github.com/Aarti-alt/SAR/issues/5"
+  },
+  {
+    "repo_full_name": "Igor3407/Chat-bot",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "da301727",
+    "first_reported_at": "2026-05-07T14:57:48.108560701Z",
+    "issue_url": "https://github.com/Igor3407/Chat-bot/issues/1"
+  },
+  {
+    "repo_full_name": "zianpan/11777-nxt",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "30391040",
+    "first_reported_at": "2026-05-07T14:58:18.623635299Z",
+    "issue_url": "https://github.com/zianpan/11777-nxt/issues/2"
+  },
+  {
+    "repo_full_name": "aamirk24/vibe-check-final",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "10555632",
+    "first_reported_at": "2026-05-07T14:58:49.118799404Z",
+    "issue_url": "https://github.com/aamirk24/vibe-check-final/issues/1"
   }
 ]
