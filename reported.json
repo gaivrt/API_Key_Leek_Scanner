@@ -1559,5 +1559,33 @@
     "key_sha256_prefix": "9a47e862",
     "first_reported_at": "2026-05-10T19:43:15.794175254Z",
     "issue_url": "https://github.com/SkidGod4444/Jarvis-2.0/issues/2"
+  },
+  {
+    "repo_full_name": "jsjong98/Agentic_AI_system",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "6bb6d2b2",
+    "first_reported_at": "2026-05-10T22:13:37.954632437Z",
+    "issue_url": "https://github.com/jsjong98/Agentic_AI_system/issues/1"
+  },
+  {
+    "repo_full_name": "pragmatron/freemap",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "419b1201",
+    "first_reported_at": "2026-05-10T22:14:08.256848199Z",
+    "issue_url": "https://github.com/pragmatron/freemap/issues/5"
+  },
+  {
+    "repo_full_name": "Whatappl/Fearless-md",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "0b8070e4",
+    "first_reported_at": "2026-05-10T22:15:08.653464353Z",
+    "issue_url": "https://github.com/Whatappl/Fearless-md/issues/1"
+  },
+  {
+    "repo_full_name": "Chaitanya029/AI-Jarvis-The-Advance-Chatbot",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "e5e66324",
+    "first_reported_at": "2026-05-10T22:15:38.970477683Z",
+    "issue_url": "https://github.com/Chaitanya029/AI-Jarvis-The-Advance-Chatbot/issues/1"
   }
 ]
