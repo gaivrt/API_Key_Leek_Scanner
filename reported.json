@@ -1475,5 +1475,33 @@
     "key_sha256_prefix": "10555632",
     "first_reported_at": "2026-05-07T14:58:49.118799404Z",
     "issue_url": "https://github.com/aamirk24/vibe-check-final/issues/1"
+  },
+  {
+    "repo_full_name": "ardra-adx/ai_chatbot",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "412633b5",
+    "first_reported_at": "2026-05-10T14:04:06.617696562Z",
+    "issue_url": "https://github.com/ardra-adx/ai_chatbot/issues/1"
+  },
+  {
+    "repo_full_name": "demureom-ctrl/ROBO",
+    "rule_id": "groq",
+    "key_sha256_prefix": "8e2e709a",
+    "first_reported_at": "2026-05-10T14:04:37.005649732Z",
+    "issue_url": "https://github.com/demureom-ctrl/ROBO/issues/1"
+  },
+  {
+    "repo_full_name": "useripx/google_home",
+    "rule_id": "groq",
+    "key_sha256_prefix": "a9f6ce87",
+    "first_reported_at": "2026-05-10T14:05:07.407896792Z",
+    "issue_url": "https://github.com/useripx/google_home/issues/4"
+  },
+  {
+    "repo_full_name": "hudjefa/hidden-secrets",
+    "rule_id": "slack-app",
+    "key_sha256_prefix": "5d072e4d",
+    "first_reported_at": "2026-05-10T14:06:08.779006556Z",
+    "issue_url": "https://github.com/hudjefa/hidden-secrets/issues/7"
   }
 ]
