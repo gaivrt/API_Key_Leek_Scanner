@@ -1503,5 +1503,33 @@
     "key_sha256_prefix": "5d072e4d",
     "first_reported_at": "2026-05-10T14:06:08.779006556Z",
     "issue_url": "https://github.com/hudjefa/hidden-secrets/issues/7"
+  },
+  {
+    "repo_full_name": "Jabrils/VChatGPT",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "baf81286",
+    "first_reported_at": "2026-05-10T16:17:19.164348655Z",
+    "issue_url": "https://github.com/Jabrils/VChatGPT/issues/1"
+  },
+  {
+    "repo_full_name": "GDD-Nantes/LLM4SchemaOrg",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "4473d849",
+    "first_reported_at": "2026-05-10T16:18:19.597989727Z",
+    "issue_url": "https://github.com/GDD-Nantes/LLM4SchemaOrg/issues/11"
+  },
+  {
+    "repo_full_name": "akshaypardeshi26/SelfTutorGlass",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "8aa3da28",
+    "first_reported_at": "2026-05-10T16:18:49.916486676Z",
+    "issue_url": "https://github.com/akshaypardeshi26/SelfTutorGlass/issues/1"
+  },
+  {
+    "repo_full_name": "mouli1508/AI-textbook-Q-A-using-RAG",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "83f68038",
+    "first_reported_at": "2026-05-10T16:19:20.194909126Z",
+    "issue_url": "https://github.com/mouli1508/AI-textbook-Q-A-using-RAG/issues/1"
   }
 ]
