@@ -1531,5 +1531,33 @@
     "key_sha256_prefix": "83f68038",
     "first_reported_at": "2026-05-10T16:19:20.194909126Z",
     "issue_url": "https://github.com/mouli1508/AI-textbook-Q-A-using-RAG/issues/1"
+  },
+  {
+    "repo_full_name": "hupyy-labs/verticalslice-smt-service",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "0e3924f2",
+    "first_reported_at": "2026-05-10T19:41:14.493608100Z",
+    "issue_url": "https://github.com/hupyy-labs/verticalslice-smt-service/issues/1"
+  },
+  {
+    "repo_full_name": "leozinpvp/sla",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "185af3a1",
+    "first_reported_at": "2026-05-10T19:42:15.054666921Z",
+    "issue_url": "https://github.com/leozinpvp/sla/issues/1"
+  },
+  {
+    "repo_full_name": "luyomo/OhMyTiUP",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "ead378dd",
+    "first_reported_at": "2026-05-10T19:42:45.413511775Z",
+    "issue_url": "https://github.com/luyomo/OhMyTiUP/issues/15"
+  },
+  {
+    "repo_full_name": "SkidGod4444/Jarvis-2.0",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "9a47e862",
+    "first_reported_at": "2026-05-10T19:43:15.794175254Z",
+    "issue_url": "https://github.com/SkidGod4444/Jarvis-2.0/issues/2"
   }
 ]
