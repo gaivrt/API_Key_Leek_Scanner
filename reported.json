@@ -1587,5 +1587,40 @@
     "key_sha256_prefix": "e5e66324",
     "first_reported_at": "2026-05-10T22:15:38.970477683Z",
     "issue_url": "https://github.com/Chaitanya029/AI-Jarvis-The-Advance-Chatbot/issues/1"
+  },
+  {
+    "repo_full_name": "Kai4632/anivisuals",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "005c2c45",
+    "first_reported_at": "2026-05-11T04:44:33.598959352Z",
+    "issue_url": "https://github.com/Kai4632/anivisuals/issues/3"
+  },
+  {
+    "repo_full_name": "tomurashigaraki22/whatsapp-tag-everyone-bot-main",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "2a727c5b",
+    "first_reported_at": "2026-05-11T04:45:03.952411432Z",
+    "issue_url": "https://github.com/tomurashigaraki22/whatsapp-tag-everyone-bot-main/issues/1"
+  },
+  {
+    "repo_full_name": "crxzyryze/chatgpt1",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "bd080fce",
+    "first_reported_at": "2026-05-11T04:45:34.387686835Z",
+    "issue_url": "https://github.com/crxzyryze/chatgpt1/issues/1"
+  },
+  {
+    "repo_full_name": "wudixm/vimrc",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "3dfc154f",
+    "first_reported_at": "2026-05-11T04:46:04.760341131Z",
+    "issue_url": "https://github.com/wudixm/vimrc/issues/1"
+  },
+  {
+    "repo_full_name": "zli213/MoviePitcherChatGPTDemo",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "02381dbd",
+    "first_reported_at": "2026-05-11T04:46:35.117246834Z",
+    "issue_url": "https://github.com/zli213/MoviePitcherChatGPTDemo/issues/2"
   }
 ]
