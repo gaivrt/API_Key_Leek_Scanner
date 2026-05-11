@@ -1685,5 +1685,12 @@
     "key_sha256_prefix": "0c9a7d73",
     "first_reported_at": "2026-05-11T15:45:10.793473480Z",
     "issue_url": "https://github.com/turnipsoft/virkr/issues/235"
+  },
+  {
+    "repo_full_name": "aiml-team/AI-Sales-Research-Tool",
+    "rule_id": "groq",
+    "key_sha256_prefix": "557f0281",
+    "first_reported_at": "2026-05-11T20:11:56.681626840Z",
+    "issue_url": "https://github.com/aiml-team/AI-Sales-Research-Tool/issues/1"
   }
 ]
