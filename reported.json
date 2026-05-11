@@ -1622,5 +1622,40 @@
     "key_sha256_prefix": "02381dbd",
     "first_reported_at": "2026-05-11T04:46:35.117246834Z",
     "issue_url": "https://github.com/zli213/MoviePitcherChatGPTDemo/issues/2"
+  },
+  {
+    "repo_full_name": "NChriCoder129/workspace",
+    "rule_id": "groq",
+    "key_sha256_prefix": "36e7491d",
+    "first_reported_at": "2026-05-11T10:07:33.583062321Z",
+    "issue_url": "https://github.com/NChriCoder129/workspace/issues/1"
+  },
+  {
+    "repo_full_name": "swatikotary/reasoning-guardian",
+    "rule_id": "groq",
+    "key_sha256_prefix": "c3882afd",
+    "first_reported_at": "2026-05-11T10:08:04.003856228Z",
+    "issue_url": "https://github.com/swatikotary/reasoning-guardian/issues/1"
+  },
+  {
+    "repo_full_name": "Utkarshbarapatre/billlega",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "0b1322f9",
+    "first_reported_at": "2026-05-11T10:08:34.504676491Z",
+    "issue_url": "https://github.com/Utkarshbarapatre/billlega/issues/1"
+  },
+  {
+    "repo_full_name": "MihirVasoya/Gen_AI",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "849d4453",
+    "first_reported_at": "2026-05-11T10:09:04.980254229Z",
+    "issue_url": "https://github.com/MihirVasoya/Gen_AI/issues/1"
+  },
+  {
+    "repo_full_name": "CyanWarriorOG/Project-Files-of-Team-1022-C.O.D.E.-Hack-2025-",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "960815a1",
+    "first_reported_at": "2026-05-11T10:09:36.095636264Z",
+    "issue_url": "https://github.com/CyanWarriorOG/Project-Files-of-Team-1022-C.O.D.E.-Hack-2025-/issues/1"
   }
 ]
