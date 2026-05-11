@@ -1657,5 +1657,33 @@
     "key_sha256_prefix": "960815a1",
     "first_reported_at": "2026-05-11T10:09:36.095636264Z",
     "issue_url": "https://github.com/CyanWarriorOG/Project-Files-of-Team-1022-C.O.D.E.-Hack-2025-/issues/1"
+  },
+  {
+    "repo_full_name": "cz040209/RAG-LangChain-Chatbot-Finance-",
+    "rule_id": "groq",
+    "key_sha256_prefix": "99c03263",
+    "first_reported_at": "2026-05-11T15:43:39.425492671Z",
+    "issue_url": "https://github.com/cz040209/RAG-LangChain-Chatbot-Finance-/issues/1"
+  },
+  {
+    "repo_full_name": "mxrah10/toxicity-censor",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "c142e765",
+    "first_reported_at": "2026-05-11T15:44:09.952121230Z",
+    "issue_url": "https://github.com/mxrah10/toxicity-censor/issues/4"
+  },
+  {
+    "repo_full_name": "AbhinavKumarjss/TestBot",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "0aa72b15",
+    "first_reported_at": "2026-05-11T15:44:40.385001385Z",
+    "issue_url": "https://github.com/AbhinavKumarjss/TestBot/issues/1"
+  },
+  {
+    "repo_full_name": "turnipsoft/virkr",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "0c9a7d73",
+    "first_reported_at": "2026-05-11T15:45:10.793473480Z",
+    "issue_url": "https://github.com/turnipsoft/virkr/issues/235"
   }
 ]
