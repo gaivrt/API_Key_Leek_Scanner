@@ -1720,5 +1720,26 @@
     "key_sha256_prefix": "c6bab78d",
     "first_reported_at": "2026-05-12T17:32:34.127139477Z",
     "issue_url": "https://github.com/aidenrsr/CIAE/issues/1"
+  },
+  {
+    "repo_full_name": "radi-cho/pearvc2025",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "6faaba0f",
+    "first_reported_at": "2026-05-12T20:16:17.343914264Z",
+    "issue_url": "https://github.com/radi-cho/pearvc2025/issues/1"
+  },
+  {
+    "repo_full_name": "radi-cho/pearvc2025",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "f7eb19f0",
+    "first_reported_at": "2026-05-12T20:16:47.730699849Z",
+    "issue_url": "https://github.com/radi-cho/pearvc2025/issues/2"
+  },
+  {
+    "repo_full_name": "SBoulanoure/Openai",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "2b8fef75",
+    "first_reported_at": "2026-05-12T20:17:48.246207540Z",
+    "issue_url": "https://github.com/SBoulanoure/Openai/issues/1"
   }
 ]
