@@ -1699,5 +1699,26 @@
     "key_sha256_prefix": "7af2c295",
     "first_reported_at": "2026-05-12T04:13:58.904357499Z",
     "issue_url": "https://github.com/UNEFAdev/forza/issues/80"
+  },
+  {
+    "repo_full_name": "alynenobre/TCC---Web-Scrapping",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "43d198c2",
+    "first_reported_at": "2026-05-12T17:31:03.223230741Z",
+    "issue_url": "https://github.com/alynenobre/TCC---Web-Scrapping/issues/1"
+  },
+  {
+    "repo_full_name": "mrs714/SBC-practica-2",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "70b8d140",
+    "first_reported_at": "2026-05-12T17:31:33.629144224Z",
+    "issue_url": "https://github.com/mrs714/SBC-practica-2/issues/1"
+  },
+  {
+    "repo_full_name": "aidenrsr/CIAE",
+    "rule_id": "openai-t3blbkfj",
+    "key_sha256_prefix": "c6bab78d",
+    "first_reported_at": "2026-05-12T17:32:34.127139477Z",
+    "issue_url": "https://github.com/aidenrsr/CIAE/issues/1"
   }
 ]
