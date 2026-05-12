@@ -1741,5 +1741,33 @@
     "key_sha256_prefix": "2b8fef75",
     "first_reported_at": "2026-05-12T20:17:48.246207540Z",
     "issue_url": "https://github.com/SBoulanoure/Openai/issues/1"
+  },
+  {
+    "repo_full_name": "ghostsecurity/poltergeist",
+    "rule_id": "anthropic-api03",
+    "key_sha256_prefix": "b59d2713",
+    "first_reported_at": "2026-05-12T22:43:12.945179370Z",
+    "issue_url": "https://github.com/ghostsecurity/poltergeist/issues/50"
+  },
+  {
+    "repo_full_name": "ghostsecurity/poltergeist",
+    "rule_id": "huggingface",
+    "key_sha256_prefix": "aa891c38",
+    "first_reported_at": "2026-05-12T22:43:43.393739263Z",
+    "issue_url": "https://github.com/ghostsecurity/poltergeist/issues/51"
+  },
+  {
+    "repo_full_name": "JoasASantos/ironclaw",
+    "rule_id": "google-ai",
+    "key_sha256_prefix": "af5111ca",
+    "first_reported_at": "2026-05-12T22:44:44.038015787Z",
+    "issue_url": "https://github.com/JoasASantos/ironclaw/issues/3"
+  },
+  {
+    "repo_full_name": "JoasASantos/ironclaw",
+    "rule_id": "github-pat-classic",
+    "key_sha256_prefix": "bf4722b7",
+    "first_reported_at": "2026-05-12T22:45:14.423139018Z",
+    "issue_url": "https://github.com/JoasASantos/ironclaw/issues/4"
   }
 ]
